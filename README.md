@@ -51,7 +51,7 @@ Detects physics violations, sensor faults, and subtle multivariate anomalies usi
 ### 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/sahil-singh-chauhan/ev-anomaly-detection.git](https://github.com/sahil-singh-chauhan/ev-anomaly-detection.git)
+git clone https://github.com/sahil-singh-chauhan/ev-anomaly-detection.git
 cd ev-anomaly-detection
 ```
 
