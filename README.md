@@ -48,12 +48,13 @@ Detects physics violations, sensor faults, and subtle multivariate anomalies usi
 
 ## Setup
 
-### 1. Clone the repository
+### 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone [https://github.com/sahil-singh-chauhan/ev-anomaly-detection.git](https://github.com/sahil-singh-chauhan/ev-anomaly-detection.git)
+cd ev-anomaly-detection
 ```
+
 
 ### 2. Create and activate a virtual environment
 
